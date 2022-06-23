@@ -1,3 +1,3 @@
 # Medium-Clone
-Medium Clone - Created using React, Next, Sanity, Typescript, Tailwind and React Hook Form. 
+Created using React, Next, Sanity, Typescript, Tailwind and React Hook Form. 
 Made for study purposes only, this is not a real app! 
